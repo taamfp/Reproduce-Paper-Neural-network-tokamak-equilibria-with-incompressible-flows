@@ -3,7 +3,6 @@ argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 astunparse==1.6.3
 attrs==21.4.0
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 beautifulsoup4==4.11.1
 bleach==5.0.1
 cachetools==5.2.0
