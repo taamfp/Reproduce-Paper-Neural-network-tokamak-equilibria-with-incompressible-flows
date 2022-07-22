@@ -1,7 +1,6 @@
 absl-py==1.2.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 astunparse==1.6.3
 attrs==21.4.0
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
@@ -14,10 +13,8 @@ charset-normalizer==2.1.0
 colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
 cycler==0.11.0
 debugpy @ file:///C:/ci_310/debugpy_1642079916595/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml==0.7.1
 entrypoints @ file:///C:/ci/entrypoints_1649926676279/work
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastjsonschema==2.16.1
 flatbuffers==1.12
 fonttools==4.34.4
@@ -62,19 +59,16 @@ oauthlib==3.2.0
 opt-einsum==3.3.0
 packaging==21.3
 pandocfilters==1.5.0
-parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==9.2.0
 prometheus-client==0.14.1
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
 protobuf==3.19.4
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
 pydot==1.4.2
 pydotplus @ file:///tmp/build/80754af9/pydotplus_1594390100614/work
-Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
 pyparsing==3.0.9
 pyrsistent==0.18.1
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
@@ -88,7 +82,6 @@ Send2Trash==1.8.0
 session-info==1.0.0
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 soupsieve==2.3.2.post1
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 stdlib-list==0.8.0
 tensorboard==2.9.1
 tensorboard-data-server==0.6.1
@@ -103,7 +96,6 @@ tornado @ file:///C:/ci_310/tornado_1642093111997/work
 traitlets==5.3.0
 typing_extensions==4.3.0
 urllib3==1.26.10
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
 Werkzeug==2.1.2
 widgetsnbextension==3.6.1
